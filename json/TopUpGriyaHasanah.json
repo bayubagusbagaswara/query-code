@@ -1,0 +1,12 @@
+{
+  "language": "IDN",
+  "messageSender": "Penawaran Griya Online Top Up",
+  "messageSubject": "Selamat! Kamu mendapatkan penawaran Top Up pembiayaan Griya",
+  "templateCode": "GRIYA_HASANAH_PENAWARAN_03",
+  "templateType": "INBOX",
+  "messageContent": "Assalamualaikum ${name},\n\nSelamat! Kamu mendapatkan penawaran Griya Online Top Up hingga Rp ${amount} dengan jangka waktu maksimal ${tenorYear} tahun.\n\nPenawaran ini berlaku s.d. ${expiredDate}.\n\nSilakan klik “Ajukan Pembiayaan” untuk melanjutkan proses pengajuan pembiayaan Griya Hasanah Online Top Up",
+  "icon": "http://mf8.myinfosys.net:7005/bsi/assets/notification-banner/griya-hasanah-home-rebrand-2x.png",
+  "messageTitle": "Selamat! Kamu mendapat penawaran Griya Online  Top Up hingga Rp ${amount}",
+  "actionInfo": "Ajukan Pembiayaan",
+  "actionLink": "bsi://finance/topup-griya-hasanah"
+}

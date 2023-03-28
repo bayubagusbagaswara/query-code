@@ -1,0 +1,26 @@
+[
+  {
+    "registrationId": "0001670071",
+    "fullName": "bangkit",
+    "bankName": "Bank Central Asia (BCA)",
+    "bankImage": "https://bsisuperapp2.bankbsi.co.id/assets/logobank/BCA/banks%402x.png",
+    "accountNumber": "7420597708",
+    "proxyValue": "BANGKIT.TEST@GMAIL.COM",
+    "proxyType": "02",
+    "proxyStatus": "SUSP",
+    "isBSI": false,
+    "identifierKey": "H3jis52SuHlf5obPa7VKCkWKcLL7eCN8ZZjSfWKb2gTt2dICP1"
+  },
+  {
+    "registrationId": "0001640016",
+    "fullName": "Valdia",
+    "bankName": "Bank Rakyat Indonesia (BRI)",
+    "bankImage": "https://bsisuperapp2.bankbsi.co.id/assets/logobank/BRI/banks%402x.png",
+    "accountNumber": "7420593807",
+    "proxyValue": "VALDIABSITEST@GMAIL.COM",
+    "proxyType": "02",
+    "proxyStatus": "SUSP",
+    "isBSI": false,
+    "identifierKey": "jsFVyDM5DyCsyrKFBgzQH7Hs8Tp7L2tfPxD8ReaQxDg4b7gHgd"
+  }
+]
