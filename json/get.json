@@ -1,0 +1,17 @@
+{
+  "proxyDataList": [
+    {
+      "fullName": "Bayu Gatra",
+      "proxyValue": "0212701515",
+      "proxyType": "01",
+      "proxyStatus": "NOT_ELIGIBLE"
+    },
+    {
+      "fullName": "Bayu Gatra",
+      "proxyValue": "bagaszwara12@gmail.com",
+      "proxyType": "02",
+      "proxyStatus": "NOT_REGISTERED"
+    }
+  ],
+  "otherProxyDataList": []
+}
