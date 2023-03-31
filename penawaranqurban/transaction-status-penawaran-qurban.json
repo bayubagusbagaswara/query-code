@@ -1,0 +1,109 @@
+[
+  {
+    "value": "<font color=\"#F4000000\" size=\"16\" weight=\"bold\">${totalBayar}</font>",
+    "key": "Biaya Pemesanan",
+    "type": "data",
+    "background": "#00FFFFFF"
+  },
+  {
+    "value": "",
+    "key": "",
+    "type": "line"
+  },
+  {
+    "value": "<font color=\"#F4000000\" size=\"16\" weight=\"normal\">${accountAliasSumber}</font><br><font color=\"#9E000000\" size=\"14\" weight=\"normal\">${fromBankName}•${fromAccountNumber}</font>",
+    "key": "Rekening\nSumber",
+    "type": "data",
+    "background": "#00FFFFFF"
+  },
+  {
+    "value": "",
+    "key": "",
+    "type": "line"
+  },
+  {
+    "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${supplier}</font>",
+    "key": "Supplier",
+    "type": "data",
+    "background": "#00FFFFFF"
+  },
+  {
+    "value": "",
+    "key": "",
+    "type": "line"
+  },
+  {
+    "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${qurbanName}</font>",
+    "key": "Qurban Atas Nama",
+    "type": "data",
+    "background": "#00FFFFFF"
+  },
+  {
+    "detailTransaksi": [
+      {
+        "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${jenisHewan}</font>",
+        "key": "Jenis Hewan",
+        "type": "data",
+        "background": "#00FFFFFF"
+      },
+      {
+        "value": "",
+        "key": "",
+        "type": "line"
+      },
+      {
+        "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${hargaHewan}</font>",
+        "key": "Harga Hewan",
+        "type": "data",
+        "background": "#00FFFFFF"
+      },
+      {
+        "value": "",
+        "key": "",
+        "type": "line"
+      },
+      {
+        "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${penerimaName}</font>",
+        "key": "Penerima Bukti\nPembelian",
+        "type": "data",
+        "background": "#00FFFFFF"
+      },
+      { "value": "", "key": "", "type": "line" },
+      {
+        "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${noHp}</font>",
+        "key": "Nomor Handphone",
+        "type": "data",
+        "background": "#00FFFFFF"
+      },
+      { "value": "", "key": "", "type": "line" },
+      {
+        "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${penerimaEmail}</font>",
+        "key": "Email Penerima\nLaporan",
+        "type": "data",
+        "background": "#00FFFFFF"
+      },
+      { "value": "", "key": "", "type": "line" },
+      {
+        "value": "<font color=\"#F4000000\" size=\"16\" weight=\"bold\">${accountAliasQurban}</font><br><font color=\"#9E000000\" size=\"14\" weight=\"normal\">${fromBankName}•${accountNumberQurban}</font>",
+        "key": "Tabungan\nQurban",
+        "type": "data",
+        "background": "#00FFFFFF"
+      },
+      { "value": "", "key": "", "type": "line" },
+      { "value": "", "key": "", "type": "line" },
+      {
+        "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${nominal}</font>",
+        "key": "Nominal Pembelian",
+        "type": "data",
+        "background": "#00FFFFFF"
+      },
+      { "value": "", "key": "", "type": "line" },
+      {
+        "value": "<font color=\"#F4000000\" size=\"14\" weight=\"normal\">${biayaPemesanan}</font>",
+        "key": "Biaya Pemesanan",
+        "type": "data",
+        "background": "#00FFFFFF"
+      }
+    ]
+  }
+]
