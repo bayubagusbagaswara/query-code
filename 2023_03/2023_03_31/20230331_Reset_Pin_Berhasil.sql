@@ -1,6 +1,6 @@
 UPDATE NOTIFICATION_MANAGEMENT_SERVICE.NOTIFICATION_TEMPLATE
 SET MESSAGE_CONTENT = TO_CLOB(
-		'<!DOCTYPE html>
+        '<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -72,8 +72,8 @@ SET MESSAGE_CONTENT = TO_CLOB(
 		    }
 		    .a6S {
 		      display: none !importan'
-	) || TO_CLOB(
-		't;
+    ) || TO_CLOB(
+        't;
 		      opacity: 0.01 !important;
 		    }
 		    img.g-img + div {
@@ -137,8 +137,8 @@ SET MESSAGE_CONTENT = TO_CLOB(
 	<center role="article" aria-roledescription="email" lang="en" style="width: 100%; background-color: #F8F8F8;">
 		<div style="max-width: 600px; margin: 0 auto;" class="email-container">
 			<tab'
-	) || TO_CLOB(
-		'le role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;">
+    ) || TO_CLOB(
+        'le role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: auto;">
          <tr>
                 <td align="left" style="padding: 24px; background-color: #FFFFFF; text-align: left;">
                     <img src="http://10.0.116.118:9000/bsi/assets/email/logo@2x.png" width="111px" height="32px" >
@@ -173,8 +173,8 @@ SET MESSAGE_CONTENT = TO_CLOB(
 						font-size:14px; line-height: 20px;">Ubah password kamu dengan kombinasi yang belum pernah digunakan.</li>
 							<li style="color: rgba(0, 0, 0, 0.96); font-family: DM Sans,sans-serif;
 						font-size:14px; line-height: 20px;"><span>Hubungi</span> <span style="font-weight:bold">BSI Call Center</span> <span>di</span> <span style="font-weight:bold">14040</s'
-	) || TO_CLOB(
-		'pan> <span>atau email ke </span> <a href="mailto:contactus@bankbsi.co.id" style="font-weight:bold; color: #F2B441;">contactus@bankbsi.co.id</a></li>
+    ) || TO_CLOB(
+        'pan> <span>atau email ke </span> <a href="mailto:contactus@bankbsi.co.id" style="font-weight:bold; color: #F2B441;">contactus@bankbsi.co.id</a></li>
 						</ol>
 						</p>
 					</td>
@@ -215,8 +215,8 @@ SET MESSAGE_CONTENT = TO_CLOB(
 										<p>
 											<a href="https://bankbsi.id/facebook_bsi" target="_blank" >
 												<img width="20px" height='
-	) || TO_CLOB(
-		'"20px" src="https://storage.googleapis.com/bsisuperapp2.bankbsi.co.id/assets/email/icon-facebook.png" />
+    ) || TO_CLOB(
+        '"20px" src="https://storage.googleapis.com/bsisuperapp2.bankbsi.co.id/assets/email/icon-facebook.png" />
 											</a>
 											<a href="https://bankbsi.id/instagram_bsi" target="_blank">
 												<img width="20px" height="20px" src="https://storage.googleapis.com/bsisuperapp2.bankbsi.co.id/assets/email/icon-instagram.png" />
@@ -241,5 +241,5 @@ SET MESSAGE_CONTENT = TO_CLOB(
 	<p>&nbsp;<br></p>
 </body>
 </html>'
-	)
-WHERE TEMPLATE_CODE = 'RESET_PIN_SUCCESS';
+    )
+WHERE TEMPLATE_TYPE = 'EMAIL' AND TEMPLATE_CODE = 'RESET_PIN_SUCCESS';
