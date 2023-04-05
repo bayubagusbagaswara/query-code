@@ -4,8 +4,8 @@ FROM PARAMETER_MANAGEMENT_SERVICE.ACCOUNT_PRODUCT ap
 WHERE PRODUCT_CODE = 'GADAIEMAS';
 -- UPDATE DATA
 UPDATE PARAMETER_MANAGEMENT_SERVICE.ACCOUNT_PRODUCT
-SET PRODUCT_INFO_TNC_ENG = 'Cashback Rp 100,000<br/>Bebas transfer ke bank manapun<br/>Maksimal pembiayaan 150jt<br/>Setora awal cuma Rp 10 ribu',
-    PRODUCT_INFO_TNC_IDN = 'Cashback Rp 100,000<br/>Bebas transfer ke bank manapun<br/>Maksimal pembiayaan 150jt<br/>Setora awal cuma Rp 10 ribu',
+SET PRODUCT_INFO_TNC_ENG = 'Cashback Rp 100,000<br/>Bebas transfer ke bank manapun<br/>Maksimal pembiayaan 150jt<br/>Setoran awal cuma Rp 10 ribu',
+    PRODUCT_INFO_TNC_IDN = 'Cashback Rp 100,000<br/>Bebas transfer ke bank manapun<br/>Maksimal pembiayaan 150jt<br/>Setoran awal cuma Rp 10 ribu',
     PRODUCT_SHORT_DESCRIPTION_IDN = TO_CLOB(
         'Nilai taksiran tinggi<br/>Proses mudah dan cepat.<br/>Emas tersimpan aman dan terjamin.'
     ),
