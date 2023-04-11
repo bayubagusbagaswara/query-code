@@ -1,0 +1,381 @@
+{
+"SELECT ACCOUNT_TYPE, PRODUCT_CODE, PRODUCT_NAME, PRODUCT_DESCRIPTION_IDN FROM PARAMETER_MANAGEMENT_SERVICE.ACCOUNT_PRODUCT ap ": [
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah USD",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah SGD",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah EUR",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah SAR",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1012",
+		"PRODUCT_NAME" : "Giro Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1012",
+		"PRODUCT_NAME" : "Giro Mudharabah USD",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1013",
+		"PRODUCT_NAME" : "Giro Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1013",
+		"PRODUCT_NAME" : "Giro Mudharabah USD",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6003",
+		"PRODUCT_NAME" : "TabunganKu",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6012",
+		"PRODUCT_NAME" : "Haji Mudharabah USD",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6012",
+		"PRODUCT_NAME" : "Haji Muda Mudharabah USD",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6011",
+		"PRODUCT_NAME" : "Haji Wadiah USD",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6011",
+		"PRODUCT_NAME" : "Haji Muda Wadiah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6011",
+		"PRODUCT_NAME" : "Haji Muda Wadiah USD",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6020",
+		"PRODUCT_NAME" : "Tabungan Bisnis",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6015",
+		"PRODUCT_NAME" : "Tabungan Berencana",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6014",
+		"PRODUCT_NAME" : "Tabungan Pendidikan",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6041",
+		"PRODUCT_NAME" : "Tapenas",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6042",
+		"PRODUCT_NAME" : "Tabungan Impian",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6007",
+		"PRODUCT_NAME" : "Tabungan Simpel iB",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6025",
+		"PRODUCT_NAME" : "Tabungan Smart",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6028",
+		"PRODUCT_NAME" : "Tabungan Pensiun Wadiah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6044",
+		"PRODUCT_NAME" : "Tabungan Simpel PIP",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6043",
+		"PRODUCT_NAME" : "TabunganKu Bansos Wadiah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6023",
+		"PRODUCT_NAME" : "Tabungan Efek Syariah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6017",
+		"PRODUCT_NAME" : "Tabungan Pensiun Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6031",
+		"PRODUCT_NAME" : "Tabungan Prima Wadiah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6032",
+		"PRODUCT_NAME" : "Tabungan Prima Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6036",
+		"PRODUCT_NAME" : "Tabungan Junior Wadiah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6039",
+		"PRODUCT_NAME" : "Tabungan Valas Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6045",
+		"PRODUCT_NAME" : "Tabungan Rekening Dana Investor",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6030",
+		"PRODUCT_NAME" : "Tabungan Mahasiswa Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6030",
+		"PRODUCT_NAME" : "Tabungan Mahasiswa Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6029",
+		"PRODUCT_NAME" : "Tabungan Mahasiswa Wadiah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6027",
+		"PRODUCT_NAME" : "Tabungan Classic",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6037",
+		"PRODUCT_NAME" : "Tapenas Kolektif",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6034",
+		"PRODUCT_NAME" : "Tabungan Payroll Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6033",
+		"PRODUCT_NAME" : "Tabungan Payroll Wadiah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SEC",
+		"PRODUCT_CODE" : "SEC",
+		"PRODUCT_NAME" : "SUKUK RITEL",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "FIN",
+		"PRODUCT_CODE" : "21051",
+		"PRODUCT_NAME" : "Murabahah Financing",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SEC",
+		"PRODUCT_CODE" : "SEC",
+		"PRODUCT_NAME" : "SUKUK RITEL",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "EMAS",
+		"PRODUCT_CODE" : "EMAS",
+		"PRODUCT_NAME" : "E-mas",
+		"PRODUCT_DESCRIPTION_IDN" : "Cepat, mudah, dan aman sesuai syariahPilihan berharga untuk semua generasi"
+	},
+	{
+		"ACCOUNT_TYPE" : "CD",
+		"PRODUCT_CODE" : "6601",
+		"PRODUCT_NAME" : "Deposito",
+		"PRODUCT_DESCRIPTION_IDN" : "Simpanan berjangka khusus dengan sistem bagi hasil yang dapat membantu kamu mewujudkan keinginan lebih cepat!"
+	},
+	{
+		"ACCOUNT_TYPE" : "SBSN",
+		"PRODUCT_CODE" : "SBSN",
+		"PRODUCT_NAME" : "SBSN",
+		"PRODUCT_DESCRIPTION_IDN" : "Simpanan investasi yang dijamin aman oleh Pemerintah. Yuk ikut berkontribusi kepada negara!"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6012",
+		"PRODUCT_NAME" : "Tabungan Haji Indonesia",
+		"PRODUCT_DESCRIPTION_IDN" : "Simpanan berjangka khusus untuk membantu menunaikan ibadah Haji dengan <b>Akad Mudharabah Muthlaqah<b>."
+	},
+	{
+		"ACCOUNT_TYPE" : "MITRAGUNA",
+		"PRODUCT_CODE" : "MITRAGUNA",
+		"PRODUCT_NAME" : "Mitraguna Online",
+		"PRODUCT_DESCRIPTION_IDN" : "Cepat, mudah, dan aman sesuai syariah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "AUTOSAVE",
+		"PRODUCT_NAME" : "Tabungan Autosave",
+		"PRODUCT_DESCRIPTION_IDN" : "Nabung terjadwal dengan aman bersama BSI"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "PAYLATER",
+		"PRODUCT_NAME" : "BSI Paylater ",
+		"PRODUCT_DESCRIPTION_IDN" : "Pilihan berharga untuk semua generasi\n#InvestasiRakyatPenuhManfaat"
+	},
+	{
+		"ACCOUNT_TYPE" : "PAYLATER",
+		"PRODUCT_CODE" : "PAYLATER",
+		"PRODUCT_NAME" : "BSI Paylater",
+		"PRODUCT_DESCRIPTION_IDN" : "Solusi mendapatkan dana lebih cepat untuk memenuhi kebutuhan sehari-hari kamu."
+	},
+	{
+		"ACCOUNT_TYPE" : "GRIYAHASANAH",
+		"PRODUCT_CODE" : "GRIYAHASANAH",
+		"PRODUCT_NAME" : "Griya Hasanah",
+		"PRODUCT_DESCRIPTION_IDN" : "Wujudkan memiliki rumah impian dengan langkah mudah untuk kebaikan kamu"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6001",
+		"PRODUCT_NAME" : "Easy Wadiah",
+		"PRODUCT_DESCRIPTION_IDN" : "Jaga harta kamu tetap murni dengan prinsip tanpa riba"
+	},
+	{
+		"ACCOUNT_TYPE" : "TESTING",
+		"PRODUCT_CODE" : "TESTING",
+		"PRODUCT_NAME" : "TESTING",
+		"PRODUCT_DESCRIPTION_IDN" : "deskripsi produk"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6010",
+		"PRODUCT_NAME" : "Easy Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : "Dapatkan keuntungan bagi hasil sesuai dengan prinsip syariah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "QURBAN",
+		"PRODUCT_NAME" : "Tabungan Qurban",
+		"PRODUCT_DESCRIPTION_IDN" : "Mari berqurban untuk saling berbagi kebahagiaan bersama BSI"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6009",
+		"PRODUCT_NAME" : "Tabungan USD",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6035",
+		"PRODUCT_NAME" : "Tabungan Junior Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "INVEST",
+		"PRODUCT_CODE" : "INVEST",
+		"PRODUCT_NAME" : "INVESTASI",
+		"PRODUCT_DESCRIPTION_IDN" : "Pilihan produk dana untuk kamu yang sesuai dengan prinsip Syariah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6030",
+		"PRODUCT_NAME" : "Tabungan Mahasiswa Mudharabah",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	},
+	{
+		"ACCOUNT_TYPE" : "CICILEMAS",
+		"PRODUCT_CODE" : "CICILEMAS",
+		"PRODUCT_NAME" : "Cicil Emas",
+		"PRODUCT_DESCRIPTION_IDN" : "Pembelian emas kualitas terbaik dengan cara dicicil"
+	},
+	{
+		"ACCOUNT_TYPE" : "GADAIEMAS_BAK",
+		"PRODUCT_CODE" : "GADAIEMAS_BAK",
+		"PRODUCT_NAME" : "Gadai Emas Fisik",
+		"PRODUCT_DESCRIPTION_IDN" : "Fitur menggadai (Rahn) emas dari perhiasan, logam mulia atau koin emas\/koin dinar"
+	},
+	{
+		"ACCOUNT_TYPE" : "GADAIEMAS",
+		"PRODUCT_CODE" : "GADAIEMAS",
+		"PRODUCT_NAME" : "Gadai Emas Fisik",
+		"PRODUCT_DESCRIPTION_IDN" : "Fitur menggadai (Rahn) emas dari perhiasan, logam mulia atau koin emas\/koin dinar"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6012",
+		"PRODUCT_NAME" : "Tabungan Haji Indonesia",
+		"PRODUCT_DESCRIPTION_IDN" : null
+	}
+]}

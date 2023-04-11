@@ -1,0 +1,318 @@
+{
+"SELECT ACCOUNT_TYPE, PRODUCT_CODE, PRODUCT_NAME FROM PARAMETER_MANAGEMENT_SERVICE.ACCOUNT_PRODUCT ap ": [
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah USD"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah SGD"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah EUR"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah SAR"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1012",
+		"PRODUCT_NAME" : "Giro Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1012",
+		"PRODUCT_NAME" : "Giro Mudharabah USD"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1013",
+		"PRODUCT_NAME" : "Giro Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1013",
+		"PRODUCT_NAME" : "Giro Mudharabah USD"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6003",
+		"PRODUCT_NAME" : "TabunganKu"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6012",
+		"PRODUCT_NAME" : "Haji Mudharabah USD"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6012",
+		"PRODUCT_NAME" : "Haji Muda Mudharabah USD"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6011",
+		"PRODUCT_NAME" : "Haji Wadiah USD"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6011",
+		"PRODUCT_NAME" : "Haji Muda Wadiah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6011",
+		"PRODUCT_NAME" : "Haji Muda Wadiah USD"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6020",
+		"PRODUCT_NAME" : "Tabungan Bisnis"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6015",
+		"PRODUCT_NAME" : "Tabungan Berencana"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6014",
+		"PRODUCT_NAME" : "Tabungan Pendidikan"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6041",
+		"PRODUCT_NAME" : "Tapenas"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6042",
+		"PRODUCT_NAME" : "Tabungan Impian"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6007",
+		"PRODUCT_NAME" : "Tabungan Simpel iB"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6025",
+		"PRODUCT_NAME" : "Tabungan Smart"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6028",
+		"PRODUCT_NAME" : "Tabungan Pensiun Wadiah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6044",
+		"PRODUCT_NAME" : "Tabungan Simpel PIP"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6043",
+		"PRODUCT_NAME" : "TabunganKu Bansos Wadiah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6023",
+		"PRODUCT_NAME" : "Tabungan Efek Syariah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6017",
+		"PRODUCT_NAME" : "Tabungan Pensiun Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6031",
+		"PRODUCT_NAME" : "Tabungan Prima Wadiah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6032",
+		"PRODUCT_NAME" : "Tabungan Prima Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6036",
+		"PRODUCT_NAME" : "Tabungan Junior Wadiah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6039",
+		"PRODUCT_NAME" : "Tabungan Valas Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6045",
+		"PRODUCT_NAME" : "Tabungan Rekening Dana Investor"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6030",
+		"PRODUCT_NAME" : "Tabungan Mahasiswa Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6030",
+		"PRODUCT_NAME" : "Tabungan Mahasiswa Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6029",
+		"PRODUCT_NAME" : "Tabungan Mahasiswa Wadiah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6027",
+		"PRODUCT_NAME" : "Tabungan Classic"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6037",
+		"PRODUCT_NAME" : "Tapenas Kolektif"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6034",
+		"PRODUCT_NAME" : "Tabungan Payroll Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6033",
+		"PRODUCT_NAME" : "Tabungan Payroll Wadiah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SEC",
+		"PRODUCT_CODE" : "SEC",
+		"PRODUCT_NAME" : "SUKUK RITEL"
+	},
+	{
+		"ACCOUNT_TYPE" : "FIN",
+		"PRODUCT_CODE" : "21051",
+		"PRODUCT_NAME" : "Murabahah Financing"
+	},
+	{
+		"ACCOUNT_TYPE" : "SEC",
+		"PRODUCT_CODE" : "SEC",
+		"PRODUCT_NAME" : "SUKUK RITEL"
+	},
+	{
+		"ACCOUNT_TYPE" : "EMAS",
+		"PRODUCT_CODE" : "EMAS",
+		"PRODUCT_NAME" : "E-mas"
+	},
+	{
+		"ACCOUNT_TYPE" : "CD",
+		"PRODUCT_CODE" : "6601",
+		"PRODUCT_NAME" : "Deposito"
+	},
+	{
+		"ACCOUNT_TYPE" : "SBSN",
+		"PRODUCT_CODE" : "SBSN",
+		"PRODUCT_NAME" : "SBSN"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6012",
+		"PRODUCT_NAME" : "Tabungan Haji Indonesia"
+	},
+	{
+		"ACCOUNT_TYPE" : "MITRAGUNA",
+		"PRODUCT_CODE" : "MITRAGUNA",
+		"PRODUCT_NAME" : "Mitraguna Online"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "AUTOSAVE",
+		"PRODUCT_NAME" : "Tabungan Autosave"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "PAYLATER",
+		"PRODUCT_NAME" : "BSI Paylater "
+	},
+	{
+		"ACCOUNT_TYPE" : "PAYLATER",
+		"PRODUCT_CODE" : "PAYLATER",
+		"PRODUCT_NAME" : "BSI Paylater"
+	},
+	{
+		"ACCOUNT_TYPE" : "GRIYAHASANAH",
+		"PRODUCT_CODE" : "GRIYAHASANAH",
+		"PRODUCT_NAME" : "Griya Hasanah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6001",
+		"PRODUCT_NAME" : "Easy Wadiah"
+	},
+	{
+		"ACCOUNT_TYPE" : "TESTING",
+		"PRODUCT_CODE" : "TESTING",
+		"PRODUCT_NAME" : "TESTING"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6010",
+		"PRODUCT_NAME" : "Easy Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "QURBAN",
+		"PRODUCT_NAME" : "Tabungan Qurban"
+	},
+	{
+		"ACCOUNT_TYPE" : "CA",
+		"PRODUCT_CODE" : "1001",
+		"PRODUCT_NAME" : "Giro Wadiah"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6009",
+		"PRODUCT_NAME" : "Tabungan USD"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6035",
+		"PRODUCT_NAME" : "Tabungan Junior Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "INVEST",
+		"PRODUCT_CODE" : "INVEST",
+		"PRODUCT_NAME" : "INVESTASI"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6030",
+		"PRODUCT_NAME" : "Tabungan Mahasiswa Mudharabah"
+	},
+	{
+		"ACCOUNT_TYPE" : "CICILEMAS",
+		"PRODUCT_CODE" : "CICILEMAS",
+		"PRODUCT_NAME" : "Cicil Emas"
+	},
+	{
+		"ACCOUNT_TYPE" : "GADAIEMAS_BAK",
+		"PRODUCT_CODE" : "GADAIEMAS_BAK",
+		"PRODUCT_NAME" : "Gadai Emas Fisik"
+	},
+	{
+		"ACCOUNT_TYPE" : "GADAIEMAS",
+		"PRODUCT_CODE" : "GADAIEMAS",
+		"PRODUCT_NAME" : "Gadai Emas Fisik"
+	},
+	{
+		"ACCOUNT_TYPE" : "SA",
+		"PRODUCT_CODE" : "6012",
+		"PRODUCT_NAME" : "Tabungan Haji Indonesia"
+	}
+]}
