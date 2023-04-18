@@ -1,0 +1,92 @@
+[
+  {
+    "CODE": "ZISWAF_VA",
+    "DESCRIPTION": "VA",
+    "LABEL_ID": "Ziswaf Virtual Account"
+  },
+  {
+    "CODE": "ZISWAF_ZAKAT",
+    "DESCRIPTION": "Ziswaf Zakat",
+    "LABEL_ID": "Zakat"
+  },
+  {
+    "CODE": "ZISWAF_INFAQ",
+    "DESCRIPTION": "Ziswaf Infaq",
+    "LABEL_ID": "Infaq"
+  },
+  {
+    "CODE": "ZISWAF_WAKAF",
+    "DESCRIPTION": "Ziswaf Wakaf",
+    "LABEL_ID": "Wakaf"
+  },
+  {
+    "CODE": "ZISWAF_ZAKAT_PROFESI",
+    "DESCRIPTION": "Zakat Profesi",
+    "LABEL_ID": "Zakat Profesi"
+  },
+  {
+    "CODE": "ZISWAF_FIDYAH",
+    "DESCRIPTION": "Ziswaf Fidyah",
+    "LABEL_ID": "Fidyah"
+  },
+  {
+    "CODE": "ZISWAF_WAKAF_UANG",
+    "DESCRIPTION": "Ziswaf Wakaf Melalui Uang",
+    "LABEL_ID": "Melalui Uang"
+  },
+  {
+    "CODE": "ZISWAF_WAKAF_SELAMANYA",
+    "DESCRIPTION": "Ziswaf Wakaf Selamanya",
+    "LABEL_ID": "Selamanya"
+  },
+  {
+    "CODE": "ZISWAF_WAKAF_TEMPORER",
+    "DESCRIPTION": "Ziswaf Wakaf Uang Temporer",
+    "LABEL_ID": "Uang Temporer"
+  },
+  {
+    "CODE": "ZISWAF_PAKET_PUASA",
+    "DESCRIPTION": "Ziswaf Paket Berbuka dan Sahur",
+    "LABEL_ID": "Paket Berbuka & Sahur"
+  },
+  {
+    "CODE": "ZISWAF_PROGRAM_INFAQ",
+    "DESCRIPTION": "Ziswaf Program Infaq",
+    "LABEL_ID": "Infaq Program"
+  },
+  {
+    "CODE": "ZISWAF_BANNER_PROMOTION",
+    "DESCRIPTION": "Ziswaf Program Infaq",
+    "LABEL_ID": "Banner"
+  },
+  {
+    "CODE": "ZISWAF_CALCULATOR",
+    "DESCRIPTION": "Calculator Zakat",
+    "LABEL_ID": "Hitung"
+  },
+  {
+    "CODE": "ZISWAF_FITRAH",
+    "DESCRIPTION": "Zakat Fitrah",
+    "LABEL_ID": "Zakat Fitrah"
+  },
+  {
+    "CODE": "ZISWAF_QURBAN",
+    "DESCRIPTION": "Beli hewan Qurban",
+    "LABEL_ID": "Beli hewan Qurban"
+  },
+  {
+    "CODE": "ZISWAF_THR_ANAK_YATIM",
+    "DESCRIPTION": "Ziswaf THR Anak Yatim",
+    "LABEL_ID": "THR Anak Yatim"
+  },
+  {
+    "CODE": "ZISWAF_DONASI",
+    "DESCRIPTION": "Ziswaf Donasi",
+    "LABEL_ID": "Donasi"
+  },
+  {
+    "CODE": "ZISWAF_WARTEG_MOBILE",
+    "DESCRIPTION": "Ziswaf Warteg Mobile",
+    "LABEL_ID": "Warteg Mobile"
+  }
+]
