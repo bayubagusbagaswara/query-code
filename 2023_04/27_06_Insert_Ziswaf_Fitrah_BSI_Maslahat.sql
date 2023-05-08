@@ -33,7 +33,7 @@ INSERT INTO PARAMETER_MANAGEMENT_SERVICE.ZISWAF_PRODUCT (
         TEST
     )
 VALUES(
-        'BSI5037',
+        'FITRAH4',
         NULL,
         35,
         'BSI Maslahat',

@@ -33,7 +33,7 @@ INSERT INTO PARAMETER_MANAGEMENT_SERVICE.ZISWAF_PRODUCT (
         TEST
     )
 VALUES(
-        'BSI5038',
+        'FITRAH1',
         NULL,
         35,
         'Dompet Dhuafa',
@@ -50,8 +50,8 @@ VALUES(
         'ZISWAF_FITRAH',
         'ALL',
         5,
-        NULL,
-        NULL,
+        'Rp 50.000 per jiwa',
+        'Rp 50.000 per jiwa',
         NULL,
         NULL,
         NULL,

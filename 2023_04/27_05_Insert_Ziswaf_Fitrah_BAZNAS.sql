@@ -33,7 +33,7 @@ INSERT INTO PARAMETER_MANAGEMENT_SERVICE.ZISWAF_PRODUCT (
         TEST
     )
 VALUES(
-        'BSI5040',
+        'FITRAH3',
         NULL,
         35,
         'BAZNAS',
@@ -50,8 +50,8 @@ VALUES(
         'ZISWAF_FITRAH',
         'ALL',
         5,
-        NULL,
-        NULL,
+        'Rp 45.000 per jiwa',
+        'Rp 45.000 per jiwa',
         NULL,
         NULL,
         NULL,
