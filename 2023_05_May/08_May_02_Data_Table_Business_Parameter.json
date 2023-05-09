@@ -1,0 +1,18 @@
+{
+  "ID": 567,
+  "CREATED_BY": "SYSTEM",
+  "CREATED_DATE": "2022-08-15T22:14:46.000Z",
+  "DESCRIPTION": "Denom E-Money",
+  "MODIFIED_BY": null,
+  "MODIFIED_DATE": null,
+  "MODULE": "DENOM_EMONEY",
+  "NAME": "Rp 50.000",
+  "ORDERING": 2,
+  "LABEL1": null,
+  "LABEL2": null,
+  "IMAGE_URL": null,
+  "ADDITIONAL_DATA": null,
+  "ISDELETED": 0,
+  "STATUS": "Aktif",
+  "VALUE": "50000"
+}
