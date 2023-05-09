@@ -1,0 +1,13 @@
+{
+  "ID": 1421,
+  "CREATED_BY": "SYSTEM",
+  "CREATED_DATE": "2023-01-25T07:45:30.000Z",
+  "DESCRIPTION": "Nisbah Bagi Hasil Bank  (satuan persen (%))",
+  "IS_ENCRYPTED": 1,
+  "MODIFIED_BY": null,
+  "MODIFIED_DATE": null,
+  "MODULE": "DEPOSITO",
+  "NAME": "NISBAH_BAGI_HASIL_BANK",
+  "VALUE": "75",
+  "IS_DELETED": 0
+}
